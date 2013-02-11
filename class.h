@@ -7,7 +7,6 @@ private:
 public:
   void showName(ostream& outs)
   {
-    outs << name << endl << endl;
-    
+    outs << name << endl;
   }
 };
